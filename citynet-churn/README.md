@@ -23,5 +23,8 @@ ____
 ## Assumptions
 ____
 
+
 ## Risks and limitations
-____
+- Misses quiet long-time customers (missed churners had 43.2 months of tenure vs 18.9 for caught ones).
+- Not fair across regions: East churners are caught only 50% of the time (Central 76%).
+- Test PR-AUC is 0.361 (validation 0.396).
