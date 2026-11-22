@@ -1,0 +1,101 @@
+customer_id,monthly_bill,tenure_months,support_calls_90d,outage_hours_90d,age,region,plan,tv_bundle,payment_method,auto_pay,paid_late_last_bill,svm_score,actually_left
+C03445,6650.0,3,0,16.5,54.0,Central,Fiber 100,no,cash,no,yes,2.673,1
+C00272,6550.0,9,2,0.4,43.0,North,Fiber 100,no,cash,no,yes,2.263,1
+C03243,6220.0,3,4,7.2,25.0,Central,Fiber 100,no,bank transfer,no,no,2.231,1
+C04086,2940.0,10,2,19.1,19.0,Central,Fiber 20,no,cash,no,yes,2.23,1
+C01204,4390.0,34,4,50.2,22.0,West,Fiber 20,yes,card,no,yes,2.184,1
+C04885,3060.0,14,2,27.8,39.0,Central,Fiber 20,no,card,no,yes,2.166,1
+C00281,6830.0,3,0,50.0,22.0,North,Fiber 100,no,bank transfer,yes,no,2.066,0
+C03657,2850.0,12,1,24.6,30.0,North,Fiber 20,no,cash,no,yes,2.044,1
+C00593,4290.0,10,2,7.5,,South,Fiber 50,no,cash,no,yes,2.009,1
+C02041,5780.0,2,2,5.6,48.0,South,Fiber 50,yes,card,no,yes,1.972,0
+C04937,2840.0,7,0,19.2,47.0,South,Fiber 20,no,cash,no,yes,1.94,0
+C00268,8140.0,13,1,1.6,41.0,North,Fiber 100,yes,cash,no,yes,1.906,1
+C02495,6350.0,3,2,1.1,32.0,Central,Fiber 100,no,bank transfer,yes,yes,1.826,1
+C00165,5820.0,6,1,17.2,32.0,East,Fiber 50,yes,bank transfer,no,yes,1.826,0
+C00808,5420.0,15,2,8.2,44.0,North,Fiber 50,yes,cash,no,yes,1.784,0
+C02607,4240.0,2,1,2.6,46.0,East,Fiber 50,no,cash,no,yes,1.773,0
+C01360,5620.0,23,3,15.7,53.0,North,Fiber 50,yes,card,no,yes,1.722,0
+C00018,4960.0,3,3,2.9,32.0,North,Fiber 50,no,cash,no,no,1.712,0
+C00323,7680.0,6,2,9.5,34.0,South,Fiber 100,yes,bank transfer,no,no,1.676,0
+C03454,6670.0,2,2,2.6,28.0,North,Fiber 100,no,bank transfer,no,no,1.664,1
+C03359,6540.0,32,1,18.2,56.0,West,Fiber 100,no,cash,no,yes,1.637,1
+C03212,6880.0,1,1,9.8,,West,Fiber 100,no,bank transfer,no,no,1.616,1
+C01658,6380.0,8,2,5.9,48.0,West,Fiber 100,no,cash,no,no,1.606,0
+C03599,2900.0,1,2,9.0,57.0,Central,Fiber 20,no,bank transfer,no,no,1.59,0
+C02103,4840.0,13,0,16.2,32.0,West,Fiber 50,no,cash,no,yes,1.582,0
+C04732,4310.0,17,2,12.6,46.0,Central,Fiber 20,yes,card,no,yes,1.576,0
+C00647,4410.0,2,2,9.2,44.0,North,Fiber 50,no,card,yes,yes,1.562,0
+C03691,6030.0,5,1,14.7,48.0,North,Fiber 50,yes,bank transfer,yes,yes,1.553,0
+C01474,5880.0,3,3,15.8,39.0,East,Fiber 50,yes,card,no,no,1.553,1
+C01471,3290.0,9,0,2.9,49.0,Central,Fiber 20,no,cash,no,yes,1.532,1
+C00824,3330.0,22,3,7.2,29.0,West,Fiber 20,no,cash,no,yes,1.529,1
+C00816,6020.0,1,1,11.4,49.0,Central,Fiber 50,yes,bank transfer,no,no,1.514,1
+C01038,3100.0,12,0,9.9,42.0,South,Fiber 20,no,cash,no,yes,1.491,1
+C00928,4280.0,8,3,1.0,37.0,Central,Fiber 50,no,cash,no,no,1.482,0
+C04056,7890.0,2,2,22.5,20.0,West,Fiber 100,yes,bank transfer,yes,no,1.479,1
+C03742,4440.0,5,4,0.3,18.0,North,Fiber 50,no,bank transfer,no,no,1.476,1
+C02570,6750.0,2,1,1.9,44.0,Central,Fiber 100,no,card,no,no,1.455,0
+C03416,6050.0,1,2,10.5,41.0,North,Fiber 50,yes,card,no,no,1.442,0
+C00091,3370.0,25,0,25.5,28.0,North,Fiber 20,no,cash,no,yes,1.436,0
+C04678,4550.0,2,2,25.8,25.0,North,Fiber 50,no,bank transfer,yes,no,1.426,0
+C00700,2390.0,4,0,1.7,41.0,South,Fiber 20,no,cash,no,yes,1.419,1
+C01085,2920.0,2,1,7.4,51.0,Central,Fiber 20,no,cash,no,no,1.404,1
+C03106,3540.0,16,0,14.5,45.0,West,Fiber 20,no,cash,no,yes,1.395,1
+C01936,4730.0,19,1,2.1,46.0,North,Fiber 50,no,cash,no,yes,1.381,0
+C00549,4910.0,8,3,2.9,28.0,West,Fiber 50,no,cash,no,no,1.343,0
+C04123,6340.0,12,2,3.9,46.0,Central,Fiber 100,no,card,no,no,1.326,0
+C04352,4450.0,36,3,10.6,55.0,North,Fiber 50,no,bank transfer,no,yes,1.321,1
+C02123,7380.0,17,2,6.6,38.0,South,Fiber 100,yes,cash,no,no,1.318,0
+C00424,3970.0,17,1,6.0,48.0,North,Fiber 20,yes,cash,no,yes,1.317,0
+C00427,7990.0,21,2,8.6,,North,Fiber 100,yes,cash,no,no,1.312,1
+C00311,4050.0,11,1,2.4,55.0,East,Fiber 20,yes,cash,no,yes,1.309,0
+C03960,5450.0,9,3,7.7,58.0,South,Fiber 50,yes,card,no,no,1.307,0
+C02408,5670.0,14,3,6.0,,South,Fiber 50,yes,cash,no,no,1.306,1
+C04171,3220.0,8,2,9.5,37.0,Central,Fiber 20,no,bank transfer,no,no,1.293,0
+C01953,4190.0,9,2,15.3,46.0,West,Fiber 20,yes,cash,no,no,1.285,1
+C03215,2790.0,19,1,4.3,50.0,North,Fiber 20,no,cash,no,yes,1.273,1
+C00767,4000.0,1,1,10.1,31.0,North,Fiber 20,yes,cash,no,no,1.238,1
+C04691,2760.0,7,1,4.0,50.0,East,Fiber 20,no,,no,yes,1.226,0
+C02332,6820.0,10,2,1.4,24.0,South,Fiber 100,no,card,no,no,1.207,1
+C03975,4190.0,17,1,3.1,37.0,North,Fiber 20,yes,cash,no,yes,1.206,0
+C04994,2690.0,34,3,4.5,48.0,South,Fiber 20,no,cash,no,yes,1.181,1
+C01951,4520.0,12,1,16.1,31.0,Central,Fiber 50,no,bank transfer,no,no,1.177,1
+C00559,4600.0,6,1,10.9,35.0,East,Fiber 50,no,cash,no,no,1.172,1
+C04415,7480.0,5,0,3.3,29.0,South,Fiber 100,yes,cash,no,no,1.165,1
+C03575,6750.0,14,3,9.5,54.0,South,Fiber 100,no,card,yes,no,1.163,0
+C01688,7490.0,9,1,29.1,56.0,East,Fiber 100,yes,card,yes,no,1.161,0
+C03253,4840.0,37,0,25.4,33.0,South,Fiber 50,no,cash,no,yes,1.158,0
+C04119,4800.0,9,2,4.3,36.0,South,Fiber 50,no,bank transfer,no,no,1.157,0
+C02478,3080.0,9,2,18.2,18.0,North,Fiber 20,no,card,no,no,1.157,1
+C03399,6460.0,2,1,5.1,25.0,West,Fiber 100,no,card,no,no,1.157,0
+C04280,6180.0,8,1,4.9,47.0,West,Fiber 100,no,bank transfer,no,no,1.15,1
+C00657,6630.0,12,1,0.5,,Central,Fiber 100,no,bank transfer,no,no,1.142,0
+C01838,4770.0,15,0,4.2,57.0,South,Fiber 50,no,card,no,yes,1.137,1
+C03407,4570.0,7,0,2.9,20.0,East,Fiber 20,yes,cash,no,yes,1.136,1
+C02091,4790.0,3,2,1.7,33.0,South,Fiber 50,no,card,no,no,1.135,0
+C03612,4360.0,2,3,12.0,35.0,South,Fiber 50,no,card,yes,no,1.135,0
+C02625,2900.0,8,2,19.2,37.0,East,Fiber 20,no,card,no,no,1.128,1
+C04411,3030.0,10,3,5.0,49.0,South,Fiber 20,no,card,no,no,1.127,1
+C00192,5970.0,29,2,3.0,55.0,North,Fiber 50,yes,bank transfer,no,yes,1.101,0
+C03638,4290.0,1,0,10.0,40.0,North,Fiber 20,yes,cash,no,no,1.098,1
+C02316,3270.0,22,2,20.8,,South,Fiber 20,no,card,yes,yes,1.094,0
+C00033,2750.0,17,3,4.7,42.0,South,Fiber 20,no,cash,no,no,1.085,1
+C02314,4620.0,7,1,5.4,21.0,North,Fiber 50,no,cash,no,no,1.067,1
+C02460,5920.0,16,0,1.6,57.0,East,Fiber 50,yes,cash,no,yes,1.067,0
+C03171,6780.0,36,4,8.0,,Central,Fiber 100,no,card,no,no,1.058,1
+C04451,6460.0,13,1,0.3,52.0,West,Fiber 100,no,cash,no,no,1.058,1
+C03125,6400.0,17,2,5.1,,North,Fiber 100,no,card,no,no,1.054,1
+C04848,3510.0,20,3,14.6,,West,Fiber 20,no,bank transfer,no,no,1.04,0
+C02643,2760.0,7,4,1.9,29.0,East,Fiber 20,no,card,no,no,1.04,0
+C04749,4920.0,5,3,6.6,36.0,Central,Fiber 50,no,card,yes,no,1.031,1
+C02133,2610.0,32,2,5.3,33.0,Central,Fiber 20,no,cash,no,yes,1.031,0
+C01444,6030.0,7,3,9.1,,North,Fiber 50,yes,bank transfer,yes,no,1.016,0
+C02903,6420.0,10,0,1.7,30.0,North,Fiber 100,no,cash,no,no,1.012,1
+C04401,5500.0,2,1,3.8,35.0,West,Fiber 50,yes,cash,no,no,1.002,0
+C00755,3160.0,40,2,18.5,38.0,West,Fiber 20,no,cash,no,yes,1.001,0
+C00993,6200.0,26,2,15.5,,West,Fiber 100,no,bank transfer,no,no,0.995,0
+C02507,7070.0,41,1,21.1,50.0,Central,Fiber 100,no,cash,no,no,0.992,1
+C02959,3230.0,4,0,3.8,59.0,North,Fiber 20,no,cash,no,no,0.992,1
+C04279,3110.0,10,1,5.8,46.0,South,Fiber 20,no,cash,no,no,0.991,0
+C02174,4480.0,16,5,4.3,33.0,North,Fiber 50,no,bank transfer,yes,no,0.989,1
